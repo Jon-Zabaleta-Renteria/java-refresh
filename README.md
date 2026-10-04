@@ -29,3 +29,10 @@ detenerme en conceptos que en teoría ya conozco.
 Cada carpeta corresponde a un proyecto del libro. El primer commit contiene
 los proyectos originales, así que cualquier diferencia posterior es trabajo mío.
 
+## Git
+
+Este repositorio también es mi práctica de Git. Trabajo desde la terminal,
+sin interfaces gráficas, para aprender los comandos de verdad: preparar
+cambios, hacer commits con mensajes que expliquen qué he hecho y mantener
+el historial ordenado. Que el código esté aquí es casi secundario; el hábito
+es lo que quiero que se quede.
