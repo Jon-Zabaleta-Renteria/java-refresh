@@ -43,6 +43,14 @@ public class TicketMachine
     {
         return balance;
     }
+    /**
+     * Retorno del total de dinero gastado de lo qque hemos insertado
+     */
+    public int getTotal()
+    {
+        return total;
+    }
+
 
     /**
      * Receive an amount of money from a customer.
@@ -84,7 +92,11 @@ public class TicketMachine
                               price - balance);
         }
     }
-
+    public void setPrice(int cost)
+    {
+            price = cost;   
+        
+    }       
     /**
      * Return the money in the balance.
      * The balance is cleared.
